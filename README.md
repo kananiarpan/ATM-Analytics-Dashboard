@@ -12,13 +12,13 @@ Welcome to the ATM Analytics Dashboard project – your go-to solution for in-de
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview 🌐
+## Overview 🌐 <a name="overview"></a>
 
 The ATM Analytics Dashboard is a Power BI project designed to provide a comprehensive overview of your ATM network's performance. From total transactions to geospatial mapping, this dashboard offers insights that matter.
 
 <img align="center" src="Pictures/Overview.png" alt="Home Dashboard" />
 
-## Installation 🛠️
+## Installation 🛠️ <a name="installation"></a>
 
 ### Prerequisites
 - [Download and install Power BI Desktop](https://powerbi.microsoft.com/desktop/)
@@ -29,7 +29,7 @@ The ATM Analytics Dashboard is a Power BI project designed to provide a comprehe
 2. Open the Power BI file using Power BI Desktop.
 3. Explore the dashboard and visualizations.
 
-## Usage 🚀
+## Usage 🚀 <a name="usage"></a>
 
 ### Dashboard Navigation
 - **Overview:** Quick summary of total transactions, amounts, and utilization rates.
@@ -40,11 +40,11 @@ The ATM Analytics Dashboard is a Power BI project designed to provide a comprehe
 - Utilize filters and slicers for personalized analysis.
 - Leverage the scatter plot and decomposition tree for in-depth insights.
 
-### Troubleshooting 🛠️
+### Troubleshooting 🛠️ <a name="troubleshooting"></a>
 
 For any issues or inquiries, refer to the "Troubleshooting" section in the README.md file or contact the project maintainers.
 
-## Screenshots 📸
+## Screenshots 📸 <a name="screenshots"></a>
 
 - **Overview Dashboard:**
   
@@ -58,7 +58,7 @@ For any issues or inquiries, refer to the "Troubleshooting" section in the READM
  
   <img align="center" src="Pictures/Mapping page.png" alt="Home Dashboard" />
 
-## Features 🌟
+## Features 🌟 <a name="features"></a>
 
 - Total transactions and amounts overview.
 - Utilization rates calculation for each ATM.
@@ -66,7 +66,7 @@ For any issues or inquiries, refer to the "Troubleshooting" section in the READM
 - Detailed transaction analysis by type, duration, and frequency.
 - Interactive scatter plot for visualizing transaction patterns.
 
-## Contributing 🤝
+## Contributing 🤝 <a name="contributing"></a>
 
 We welcome contributions! Follow these steps:
 1. Fork the repository.
@@ -75,6 +75,6 @@ We welcome contributions! Follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License 📄
+## License 📄 <a name="license"></a>
 
 This project is licensed under the [MIT License](LICENSE).
